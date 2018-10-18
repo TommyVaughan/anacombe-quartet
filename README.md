@@ -1,2 +1,2 @@
 # anacombe-quartet
-An investigation into Anacomb's Quartet
+An investigation into Anacombe's Quartet
